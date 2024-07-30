@@ -1,0 +1,107 @@
+{
+  "tickets": [
+    {
+      "id": "2",
+      "title": "Login page design",
+      "description": "Create a responsive login page",
+      "assignee": "Tamanna",
+      "status": "Progress",
+      "priority": 4
+    },
+    {
+      "id": "3",
+      "title": "Database migration",
+      "description": "Migrate database from SQL to NoSQL",
+      "assignee": "Shrikant",
+      "status": "Completed",
+      "priority": 8
+    },
+    {
+      "id": "4",
+      "title": "Bug fix on homepage",
+      "description": "Resolve the image loading issue",
+      "assignee": "Abhishak",
+      "status": "Pending",
+      "priority": 3
+    },
+    {
+      "id": "5",
+      "title": "SEO optimization",
+      "description": "Improve website SEO for better ranking",
+      "assignee": "Amrit",
+      "status": "Progress",
+      "priority": 6
+    },
+    {
+      "id": "6",
+      "title": "User feedback integration",
+      "description": "Integrate user feedback into the app",
+      "assignee": "Ashmita",
+      "status": "Completed",
+      "priority": 2
+    },
+    {
+      "id": "7",
+      "title": "Implement caching",
+      "description": "Add caching mechanism to reduce load time",
+      "assignee": "Tamanna",
+      "status": "Pending",
+      "priority": 9
+    },
+    {
+      "id": "8",
+      "title": "Accessibility improvements",
+      "description": "Enhance website accessibility for disabled users",
+      "assignee": "Shrikant",
+      "status": "Progress",
+      "priority": 5
+    },
+    {
+      "id": "9",
+      "title": "API endpoint security",
+      "description": "Secure all API endpoints with proper authentication",
+      "assignee": "Abhishak",
+      "status": "Completed",
+      "priority": 1
+    },
+    {
+      "id": "10",
+      "title": "UI redesign",
+      "description": "Redesign the UI for better user experience",
+      "assignee": "Amrit",
+      "status": "Pending",
+      "priority": 0
+    },
+    {
+      "id": "11",
+      "title": "ertert",
+      "description": "ergerg",
+      "assignee": "Shrikant",
+      "status": "Pending",
+      "priority": 3
+    },
+    {
+      "id": "74be",
+      "title": "logo",
+      "description": "Terko he karna hai ",
+      "assignedTo": "Shrikant",
+      "status": "process",
+      "priority": 5
+    },
+    {
+      "id": "3940",
+      "title": "logo",
+      "description": "Terko he karna hai ",
+      "assignedTo": "Shrikant",
+      "status": "process",
+      "priority": 5
+    },
+    {
+      "title": "esrdgds",
+      "description": "sdgsdfg",
+      "status": "process",
+      "priority": 7,
+      "id": "d868"
+    }
+  ]
+}
